@@ -1,2 +1,0 @@
-nohup ./start.sh >/dev/null 2>/dev/null &
-
